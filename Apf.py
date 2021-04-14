@@ -30,7 +30,7 @@ def Apf():
 			print "cryptic :: ",req_link
 
 def csoul():
-	Space(9); print("""
+	print("""
               \033[96m
                      d8888 8888888b.  8888888888
                     d88888 888   Y88b 888
@@ -43,18 +43,18 @@ def csoul():
     +===============================================+
     |..............Admin Panel Finder...............|
     +-----------------------------------------------+
-    |#Modified By  =>>    Crypt1cSoul               |
+    |#Coded By  =>  Crypt1cSoul                     |
     |#Join=>> Gray Hat Hackers Community on Facebook|
-    |#TG =>> https://t.me/joinchat/Q5IC1RPcsysxMjg1 |
+    |#TG =>> https://t.me/GHHCommunity              |
     |#Note =>> Educational Purpose Only             |
     |-----------------------------------------------|
-    |       -- GRAY HAT HACKERS COMMUNITY --        |
+    |       -- GRAY HAT HACKER'S COMMUNITY          |
     +===============================================+ """)
                                         
                                       
-	Space(9); print "     "
-	Space(1); print " (Website link should be test.com or www.test.com) "
-	Space(3); print "      "
+	print "     "
+	print "     (Website link should be test.com or www.test.com) "
+	print "      "
 
 csoul()
 Apf()
